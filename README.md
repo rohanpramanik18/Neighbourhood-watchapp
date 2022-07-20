@@ -2,12 +2,7 @@
 
 To run :  flutter run --no-sound-null-safety as of now as it is in development
 
-## Development in process 
-## Test environment : Flutter 2.10.4 and Android 11 Device.
-
-Introducing the Neigbourhood Watch App,
-
-## Features/ Progress
+## Features
 
 <li> Users can report crime. </li>
 <li> See crime reports submitted depending upon their current location and only those reports in his/her area will be visible. </li>
@@ -23,7 +18,4 @@ Introducing the Neigbourhood Watch App,
 <li> Connected the realtime firebase database with the IOT ESP8266 NodeMcu and Arduino Uno along with ultrasonic sensor to measure the capacity of the garbage in trash can</li>
 <li> Depending upon the fetched realtime metric app displays the circular progress bar indicating the percentage of capacity available / occupied</li>
 <li> Admin entity authentication and moderation (delete reports that are fake) added</li>
-<li> Admin module integrated successfully</li>
 <li> Crime prediction model that uses data from the reports submitted in app and generate map to show possible crime locations</li>
-
-# Update the state helplines to the updated ones for your state. In the dash and garbage tracker page. That's it :)
